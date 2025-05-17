@@ -1,4 +1,4 @@
-# Este script analiza un conjunto de datos de ventas y genera un archivo Excel con varios informes.
+# Script para generar hoja de calculo
 
 import pandas as pd
 
